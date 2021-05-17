@@ -1,5 +1,4 @@
 import matplotlib.pyplot as plt
-from numpy.core.arrayprint import printoptions
 import pandas as pd
 import pylab as pl
 import numpy as np
