@@ -1,0 +1,6 @@
+sudo apt-get install python-pip
+sudo pip install numpy
+sudo pip install pandas
+sudo apt-get install python3-matplotlib
+pip3 install -U scikit-learn
+
